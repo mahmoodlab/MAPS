@@ -57,7 +57,7 @@ pip install -r ./MAPS/requirements.txt
 
 
 # Datasets
-Datasets are expected to be prepared in a CSV format containing at least **N+1** columns where **N** is the number of marker in the given dataset and the one additional column is for cell size. Each row of the CSV file should represent marker expression for a given cell along with cell size. To retrain cell phenotyping on new dataset, split the dataset into train and valid CSV files and add an extra column 'cell_label' in both train and valid CSV files to provide the ground truth(class id) for each cell, see sample train and valid CSV files under data/cell_phenotyping directory.
+Datasets are expected to be prepared in a CSV format containing at least **N+1** columns where **N** is the number of marker in the given dataset and the one additional column is for cell size. Each row of the CSV file should represent marker expression for a given cell along with cell size. To retrain cell phenotyping on new dataset, split the dataset into train and valid CSV files and add an extra column 'cell_label' (numerical, e.g. 0, 1, 2...., instead of strings such as 'CD4 T cell', 'CD8 T cell' etc.) in both train and valid CSV files to provide the ground truth(class id) for each cell, see sample train and valid CSV files under data/cell_phenotyping directory.
 
 
 # Tutorial
