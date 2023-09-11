@@ -1,0 +1,22 @@
+cell_types:
+  CD11b+ Myeloid cells:
+    - CD11b
+  CD4 T cells:
+    - CD3
+    - CD4
+  CD8 T cells:
+    - CD3
+    - CD8
+  Dendritic cells:
+    - CD11c
+    - DC-SIGN
+  M1 Macrophages:
+    - CD68
+  M2 Macrophages:
+    - CD163
+    - CD68
+  NK cells:
+    - CD56
+  Tumor:
+    - PAX5
+    - CD20

@@ -1,0 +1,43 @@
+cell_types:
+  B:
+    - CD20
+  CD4:
+    - CD4
+    - CD7
+    - Granzyme.B
+  CD8:
+    - CD8
+    - CD7
+    - Granzyme.B
+  DC:
+    - CD11c
+    - CD68
+  Endothelial:
+    - CD31
+    - a.SMA
+  Epithelial:
+    - Cytokeratin
+  Lymphatic:
+    - Podoplanin
+  M1:
+    - CD16
+    - CD68
+  M2:
+    - CD68
+    - CD163
+    - CD206
+  Mast:
+    - MCT
+  Monocyte:
+    - CD11b
+  NK:
+    - CD56
+    - CD57
+  Neutrophil:
+    - CD15
+    - CD11b
+  TReg:
+    - FoxP3
+    - CD4
+  Tumor:
+    - CD30

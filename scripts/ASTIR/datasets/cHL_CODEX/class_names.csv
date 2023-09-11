@@ -1,0 +1,17 @@
+class_id,class_name,sample_count
+0,B,16196
+1,CD4,37480
+2,CD8,17568
+3,DC,9637
+4,Endothelial,8705
+5,Epithelial,2251
+6,Lymphatic,3768
+7,M1,3101
+8,M2,7286
+9,Mast,3324
+10,Monocyte,6913
+11,NK,7339
+12,Neutrophil,3442
+13,Other,5108
+14,TReg,3352
+15,Tumor,8260

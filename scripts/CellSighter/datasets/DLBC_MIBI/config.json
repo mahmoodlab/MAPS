@@ -1,0 +1,13 @@
+{"crop_input_size": 60,
+"crop_size": 128,
+"root_dir": "datasets/DLBC_MIBI/",
+"num_classes": 9,
+"epoch_max": 50,
+"lr": 0.001,
+"blacklist": [],
+"channels_path": "datasets/DLBC_MIBI/channels.txt",
+"weight_to_eval": "",
+"sample_batch": true,
+"to_pad": true,
+"aug_data": true
+}

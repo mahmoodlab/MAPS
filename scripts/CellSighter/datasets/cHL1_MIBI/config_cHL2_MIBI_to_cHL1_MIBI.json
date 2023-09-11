@@ -1,0 +1,14 @@
+{"crop_input_size": 60,
+"crop_size": 128,
+"root_dir": "datasets/cHL2_MIBI/",
+"num_classes": 13,
+"epoch_max": 50,
+"lr": 0.001,
+"blacklist": [],
+"channels_path": "datasets/cHL2_MIBI/channels.txt",
+"weight_to_eval": "",
+"sample_batch": true,
+"to_pad": true,
+"aug_data": true,
+"test_set": ["2022-03-30T20-28-17_cHL_Slide308_NIVO51A_5x5tile_2", "2022-03-30T01-38-11_cHL_Slide306_NIVO50A_5x5tile_4","2022-03-27T02-42-50_cHL_Slide306_NIVO50A_5x5tile_1","2022-04-01T24-59-37_cHL_Slide307_NIVO50B_5x5tile_5","2022-03-26T21-41-35_cHL_Slide302_S19_10582_5x5tile_2","2022-04-12T22-32-54_cHL_rLN-ctrl_Slide354_3x4tile"]
+}

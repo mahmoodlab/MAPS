@@ -1,0 +1,18 @@
+{
+  "crop_input_size": 60,
+  "crop_size": 128,
+  "root_dir": "datasets/cHL_CODEX/",
+  "num_classes": 16,
+  "epoch_max": 200,
+  "lr": 0.001,
+  "blacklist": [],
+  "channels_path": "datasets/cHL_CODEX/channels.txt",
+  "weight_to_eval": "",
+  "sample_batch": true,
+  "to_pad": true,
+  "hierarchy_match": {"0": "B", "1": "CD4", "2": "CD8", "3": "DC", "4": "Endothelial", "5": "Epithelial", "6": "Lymphatic", "7": "M1", "8": "M2", "9": "Mast", "10": "Monocyte", "11": "NK", "12": "Neutrophil", "13": "Other", "14": "TReg", "15": "Tumor"},
+  "size_data": 1000000,
+  "aug_data": true,
+  "train_set": ["reg001_cropped"],
+  "val_set": ["reg001_cropped"]
+}

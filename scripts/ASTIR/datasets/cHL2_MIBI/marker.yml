@@ -1,0 +1,35 @@
+---
+cell_types:
+  B:
+    - CD20
+    - Pax-5
+  CD4 T:
+    - CD3
+    - CD4
+    - Granzyme B
+  CD4 Treg:
+    - CD3
+    - CD4
+    - FoxP3
+  CD8 T:
+    - CD8
+    - CD3
+    - Granzyme B
+  DC:
+    - CD11c
+    - CD68
+  Endothelial:
+    - CD153 (CD30L)
+  M1:
+    - CD68
+  M2:
+    - CD163
+    - CD68
+  NK:
+    - CD56
+    - CD57
+  Neutrophil:
+    - CD15
+  Tumor:
+    - Pax-5
+    - CD30 
