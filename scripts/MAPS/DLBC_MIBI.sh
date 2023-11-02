@@ -1,7 +1,7 @@
 #!/bin/bash
 
 root_dir='~/MAPS/DLBC_MIBI'
-data_csv_path='path_to_data_dir/DLBCL data/DLBCL_standardized.csv'
+data_csv_path='path_to_data_dir/DLBCL/DLBCL_standardized.csv'
 dataset_dir="$root_dir/datasets"
 results_dir="$root_dir/results"
 num_features=23

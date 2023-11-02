@@ -1,7 +1,7 @@
 #!/bin/bash
 
 root_dir='~/MAPS/cHL_CODEX'
-data_csv_path='path_to_data_dir/cHL CODEX/annotation_csv/cHL_CODEX_annotation.csv'
+data_csv_path='path_to_data_dir/cHL_CODEX/annotation_csv/cHL_CODEX_annotation.csv'
 dataset_dir="$root_dir/datasets"
 results_dir="$root_dir/results"
 num_features=50

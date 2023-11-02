@@ -1,7 +1,7 @@
 #!/bin/bash
 
 root_dir='~/MAPS/cHL2_MIBI/'
-data_csv_path='path_to_data_dir/cHL2 MIBI norm asinh ver 3'
+data_csv_path='path_to_data_dir/cHL_2_MIBI/annotation_csv/'
 dataset_dir="$root_dir/datasets"
 results_dir="$root_dir/results"
 num_features=47
