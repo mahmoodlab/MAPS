@@ -1,0 +1,14 @@
+class_id,class_name,sample_count
+0,B,203862
+1,CD4,457232
+2,CD8,263841
+3,Cytotoxic CD4,70305
+4,DC,113181
+5,Endothelial,24260
+6,M1,13417
+7,M2,223290
+8,NK,29376
+9,Neutrophil,18490
+10,Other,131420
+11,Treg,63262
+12,Tumor,57917

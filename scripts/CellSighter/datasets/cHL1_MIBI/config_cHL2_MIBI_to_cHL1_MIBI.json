@@ -1,0 +1,14 @@
+{"crop_input_size": 60,
+"crop_size": 128,
+"root_dir": "datasets/cHL2_MIBI/",
+"num_classes": 13,
+"epoch_max": 50,
+"lr": 0.001,
+"blacklist": [],
+"channels_path": "datasets/cHL2_MIBI/channels.txt",
+"weight_to_eval": "",
+"sample_batch": true,
+"to_pad": true,
+"aug_data": true,
+"test_set": ["1", "2", "3", "4", "5", "6"]
+}

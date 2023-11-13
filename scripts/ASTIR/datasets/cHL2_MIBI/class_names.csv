@@ -1,0 +1,13 @@
+class_id,class_name,sample_count
+0,B,24129
+1,CD4 T,54832
+2,CD4 Treg,39962
+3,CD8 T,13120
+4,DC,19824
+5,Endothelial,5809
+6,M1,4909
+7,M2,23726
+8,NK,4885
+9,Neutrophil,16833
+10,Other,15758
+11,Tumor,7102
