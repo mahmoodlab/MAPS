@@ -1,9 +1,8 @@
 MAPS
 ===========
 MAPS: Machine learning for Analysis of Proteomics in Spatial biology.
-*Nature Communications*
 
-https://www.nature.com/articles/s41467-023-44188-w
+*Nature Communications*: https://www.nature.com/articles/s41467-023-44188-w
 
 <img src="docs/flow_diagram.png" width="1000px" align="center" />
 
